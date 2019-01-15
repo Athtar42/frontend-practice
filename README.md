@@ -1,4 +1,4 @@
-# Front-End Practice
+# Frontend Practice
 
 ## Flex
 
