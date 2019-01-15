@@ -1,5 +1,10 @@
-# frontend-practice
+# Front-End Practice
 
-## Responsive Navbar using Flexbox
+## Flex
 
-## Responsive Widget using Flex
+1. Responsive Navbar using Flexbox
+
+2. Responsive Widget using Flexbox
+
+3. The Holy Grail Layout
+
