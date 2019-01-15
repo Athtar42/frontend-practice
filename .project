@@ -17,8 +17,7 @@
 	<filteredResources>
 		<filter>
 			<id>1547506801474</id>
-			<name>
-			</name>
+			<name></name>
 			<type>26</type>
 			<matcher>
 				<id>org.eclipse.ui.ide.multiFilter</id>
