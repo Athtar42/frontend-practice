@@ -5,6 +5,19 @@ body {
     min-height: 100px;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    /* 使元素分散于一行的两端 */
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    /* 去掉下划线 */
+    color: black;
+  }
+
 header, footer {
     background-color: lightskyblue;
     min-height: 100px;
@@ -13,6 +26,13 @@ header, footer {
 main {
     display: flex;
 
+}
+
+main > *, header, footer {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid gray;
+    border-radius: 4px;
 }
 
 article {
