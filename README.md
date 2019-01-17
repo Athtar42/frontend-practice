@@ -8,3 +8,6 @@
 
 3. The Holy Grail Layout [link](https://carpenter42.github.io/frontend-practice/responsive-holy-grail-layout/index.html "The Holy Grail Layout")
 
+## AJAX
+
+1. 4 ways of writing AJAX requests.
